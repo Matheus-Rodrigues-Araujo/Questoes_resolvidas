@@ -6,7 +6,7 @@
 '''
 
 '''
-    1° Passo: Pedir ao usuário uma entrada(variável 'valor_entrada'), cuja é a quantidade de linhas com asterisco que o programa irá criar;
+    1° Passo: Pedir ao usuário uma entrada(variável 'valor_entrada'), cuja é a quantidade de linhas com asterisco que o programa irá criar a cada iteração;
 '''
 valor_entrada = int(input('Digite o valor: '))
 
