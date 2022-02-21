@@ -17,7 +17,7 @@ def anagramas_Pares(palavra):
     contador_pares = 0
     
     # É criada uma variável, que recebe a Classe Counter, e que depois passamos como parâmetro um valor(string),
-    # que foi recolhido através do parâmetro da função subStrings
+    # que foi recolhido através do parâmetro da função anagramas_Pares
     c = Counter(palavra)
     # Aqui iremos utilizar um 'for' e um 'if' para ver se há alguma letra repetida no nosso dicionário criado
     # Se houver par de uma letra, a variável 'contador_pares' é somada. Ex: letra 'i' repetida duas vezes = 1 par
